@@ -1,0 +1,5 @@
+package com.core.serviceimpl;
+
+public class OrderServiceImpl {
+
+}

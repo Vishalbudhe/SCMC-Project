@@ -1,0 +1,11 @@
+package com.core.Repository;
+
+import java.io.Serializable;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.core.entity.OrderHeader;
+
+public interface OrderHeaderRepository extends JpaRepository<OrderHeader, Serializable> {
+
+}
