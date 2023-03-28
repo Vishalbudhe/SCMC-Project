@@ -8,6 +8,6 @@ import org.springframework.stereotype.Repository;
 import com.core.entity.OrderHeader;
 
 @Repository
-public interface OrderHeaderRepository extends JpaRepository<OrderHeader, Long> {
+public interface OrderHeaderRepository extends JpaRepository<OrderHeader, Serializable> {
 
 }

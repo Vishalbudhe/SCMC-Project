@@ -15,9 +15,9 @@ public class BsController {
 	
 	@PostMapping("/save")
 	public OrderHeader home(@RequestBody OrderHeader order) {
-		bsServ.saveOrder(order);
+		OrderHeader saveOrder = bsServ.saveOrder(order);
 		
-		return null;
+		return saveOrder;
 		
 		
 	}

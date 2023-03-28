@@ -23,13 +23,17 @@ public class OrderServiceimpl implements OrderService {
 
 	@Override
 	public OrderHeader addOrder(OrderHeader order) {
-		String bsRoot = env.getProperty("api.bs.root");
-		String url =bsRoot+"/save";
-		HttpHeaders httpHeaders = new HttpHeaders();
-		httpHeaders.setContentType(MediaType.APPLICATION_JSON);
-		HttpEntity<OrderHeader> httpEntity = new HttpEntity<>(order,httpHeaders);
-		ResponseEntity<OrderHeader> response = restTemp.exchange(url, HttpMethod.POST,httpEntity,OrderHeader.class);
-		return response.getBody();
+		
+		  String bsRoot = env.getProperty("api.bs.root"); 
+		  String url =bsRoot+"/save";
+		  HttpHeaders httpHeaders = new HttpHeaders();
+		  httpHeaders.setContentType(MediaType.APPLICATION_JSON);
+		  HttpEntity<OrderHeader> httpEntity = new HttpEntity<>(order,httpHeaders);
+		//  ResponseEntity<OrderHeader> response = restTemp.exchange(url,HttpMethod.POST,httpEntity,OrderHeader.class); 
+		  ResponseEntity<OrderHeader> response = restTemp.exchange(url, HttpMethod.POST, httpEntity, OrderHeader.class, httpHeaders);
+		  return response.getBody();
+		 
+		
 	}
 
 }

@@ -1322,3 +1322,775 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.example:A
 2023-03-25 23:35:33,535 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-03-25 23:35:33,535 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2023-03-25 23:35:33,535 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Acknowledgement\src\test\resources
+2023-03-27 07:51:08,188 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-27 18:33:21,554 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-27 18:34:55,043 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:34:55,045 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:34:55,048 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 18:34:55,071 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 18:34:55,076 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:34:55,076 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:34:55,076 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 18:34:55,776 [Worker-1: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier  to /Ack_Core/target/classes
+2023-03-27 18:34:55,785 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:34:55,785 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:34:55,786 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 18:34:55,790 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 18:34:55,795 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:34:55,795 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:34:55,795 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_business_Service\src\test\resources
+2023-03-27 18:34:56,091 [Worker-1: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier  to /Ack_Core/target/classes
+2023-03-27 18:34:56,096 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:34:56,096 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:34:56,096 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 18:34:56,098 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 18:34:56,103 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:34:56,103 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:34:56,103 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Acknowledgement\src\test\resources
+2023-03-27 18:36:51,607 [Worker-5: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 18:36:51,649 [Worker-5: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 18:36:51,683 [Worker-5: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 18:38:25,397 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:38:25,397 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:38:25,399 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 18:38:25,399 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 18:38:25,416 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:38:25,416 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:38:25,416 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_business_Service\src\test\resources
+2023-03-27 18:38:53,123 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:38:53,123 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:38:53,125 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 18:38:53,131 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 18:38:53,133 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:38:53,134 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:38:53,134 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 18:38:54,167 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:38:54,167 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:38:54,167 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 18:38:54,174 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 18:38:54,176 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:38:54,176 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:38:54,176 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 18:39:20,457 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:39:20,457 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:39:20,457 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 18:39:20,462 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 18:39:20,464 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:39:20,464 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:39:20,464 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 18:39:21,544 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:39:21,544 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:39:21,545 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 18:39:21,548 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 18:39:21,551 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:39:21,551 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:39:21,551 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 18:39:32,542 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:39:32,542 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:39:32,542 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 18:39:32,550 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 18:39:32,552 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:39:32,552 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:39:32,552 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 18:40:10,496 [Worker-5: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 18:40:10,550 [Worker-5: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 18:40:10,586 [Worker-5: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 18:41:20,180 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:41:20,180 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:41:20,180 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 18:41:20,184 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 18:41:20,185 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:41:20,185 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:41:20,185 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 18:45:47,132 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:45:47,132 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:45:47,133 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 18:45:47,137 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 18:45:47,140 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:45:47,140 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:45:47,140 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 18:47:47,288 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:47:47,288 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:47:47,288 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 18:47:47,295 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 18:47:47,297 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:47:47,297 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:47:47,297 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 18:50:30,861 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:50:30,861 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:50:30,861 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 18:50:30,868 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 18:50:30,870 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:50:30,870 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:50:30,870 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 18:51:50,236 [Worker-14: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 18:51:50,273 [Worker-14: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 18:51:50,304 [Worker-14: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 18:54:45,054 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-27 18:54:45,918 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ack_core:Ack_Core:0.0.1-SNAPSHOT @ D:\Java\JRTP final Project\Final_Project\Ack_Core\pom.xml.
+2023-03-27 18:54:46,058 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Acknowledgement:0.0.1-SNAPSHOT @ D:\Java\JRTP final Project\Final_Project\Acknowledgement\pom.xml.
+2023-03-27 18:54:46,096 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier  to /Ack_Core/target/classes
+2023-03-27 18:54:46,136 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Ack_business_Service:0.0.1-SNAPSHOT @ D:\Java\JRTP final Project\Final_Project\Ack_business_Service\pom.xml.
+2023-03-27 18:54:46,160 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier  to /Ack_Core/target/classes
+2023-03-27 18:54:47,640 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ack_Core/src/main/java
+2023-03-27 18:54:47,640 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ack_Core/src/main/resources
+2023-03-27 18:54:47,640 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ack_Core/src/main/resources
+2023-03-27 18:54:47,640 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ack_Core/src/test/java
+2023-03-27 18:54:48,355 [Worker-18: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Ack_Core
+2023-03-27 18:54:48,362 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2023-03-27 18:54:48,883 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:54:48,883 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:54:48,883 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 18:54:48,902 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 18:54:48,905 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:54:48,906 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:54:48,906 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 18:54:48,906 [Worker-25: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Ack_Core
+2023-03-27 18:54:48,906 [Worker-25: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Ack_Core
+2023-03-27 18:54:48,911 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:54:48,911 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:54:49,159 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:54:49,159 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:54:49,161 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 18:54:49,161 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 18:54:49,162 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:54:49,162 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:54:49,162 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_business_Service\src\test\resources
+2023-03-27 18:54:49,214 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:54:49,214 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:54:49,214 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 18:54:49,214 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 18:54:49,216 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:54:49,216 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:54:49,216 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Acknowledgement\src\test\resources
+2023-03-27 18:55:13,045 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-03-27 18:55:24,606 [Worker-25: Launching Ack_Core (10)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Java\JRTP final Project\Final_Project\Ack_Core
+2023-03-27 18:55:24,607 [Worker-25: Launching Ack_Core (10)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -Dstyle.color=always clean
+2023-03-27 18:55:37,005 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-03-27 18:55:47,597 [Worker-26: Launching Ack_Core (11)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Java\JRTP final Project\Final_Project\Ack_Core
+2023-03-27 18:55:47,597 [Worker-26: Launching Ack_Core (11)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -Dmaven.test.skip=true -DskipTests -Dstyle.color=always install
+2023-03-27 18:56:40,468 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Acknowledgement:0.0.1-SNAPSHOT @ D:\Java\JRTP final Project\Final_Project\Acknowledgement\pom.xml.
+2023-03-27 18:56:40,712 [Worker-20: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier  to /Ack_Core/target/classes
+2023-03-27 18:56:40,731 [Worker-20: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier  to /Ack_Core/target/classes
+2023-03-27 18:56:40,865 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:56:40,865 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:56:40,866 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 18:56:40,866 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 18:56:40,868 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:56:40,868 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:56:40,868 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Acknowledgement\src\test\resources
+2023-03-27 18:56:40,868 [Worker-20: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Acknowledgement
+2023-03-27 18:56:40,868 [Worker-20: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Acknowledgement
+2023-03-27 18:56:40,870 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:56:40,870 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:56:59,002 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-27 18:56:59,269 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Acknowledgement:0.0.1-SNAPSHOT @ D:\Java\JRTP final Project\Final_Project\Acknowledgement\pom.xml.
+2023-03-27 18:56:59,383 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier  to /Ack_Core/target/classes
+2023-03-27 18:56:59,421 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ack_core:Ack_Core:0.0.1-SNAPSHOT @ D:\Java\JRTP final Project\Final_Project\Ack_Core\pom.xml.
+2023-03-27 18:56:59,458 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Ack_business_Service:0.0.1-SNAPSHOT @ D:\Java\JRTP final Project\Final_Project\Ack_business_Service\pom.xml.
+2023-03-27 18:56:59,468 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier  to /Ack_Core/target/classes
+2023-03-27 18:57:00,112 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ack_business_Service/src/main/java
+2023-03-27 18:57:00,112 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ack_business_Service/src/main/resources
+2023-03-27 18:57:00,112 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ack_business_Service/src/main/resources
+2023-03-27 18:57:00,113 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ack_business_Service/src/test/java
+2023-03-27 18:57:00,315 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier  to /Ack_Core/target/classes
+2023-03-27 18:57:00,323 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Acknowledgement/src/main/java
+2023-03-27 18:57:00,323 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Acknowledgement/src/main/resources
+2023-03-27 18:57:00,323 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Acknowledgement/src/main/resources
+2023-03-27 18:57:00,323 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Acknowledgement/src/test/java
+2023-03-27 18:57:00,618 [Worker-22: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Ack_business_Service
+2023-03-27 18:57:00,649 [Worker-22: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Acknowledgement
+2023-03-27 18:57:00,655 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-03-27 18:57:00,807 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:57:00,807 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:57:00,811 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 18:57:00,811 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 18:57:00,815 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:57:00,815 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:57:00,815 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 18:57:00,816 [Worker-13: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Ack_Core
+2023-03-27 18:57:00,816 [Worker-13: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Ack_Core
+2023-03-27 18:57:00,819 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:57:00,819 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:57:01,347 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:57:01,348 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:57:01,348 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 18:57:01,367 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 18:57:01,372 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:57:01,372 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:57:01,372 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_business_Service\src\test\resources
+2023-03-27 18:57:01,372 [Worker-13: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Ack_business_Service
+2023-03-27 18:57:01,372 [Worker-13: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Ack_business_Service
+2023-03-27 18:57:01,375 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:57:01,375 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:57:01,646 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:57:01,646 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:57:01,646 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 18:57:01,651 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 18:57:01,652 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:57:01,652 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:57:01,653 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 18:57:01,663 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:57:01,663 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:57:01,663 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 18:57:01,664 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 18:57:01,668 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:57:01,668 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:57:01,668 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Acknowledgement\src\test\resources
+2023-03-27 18:57:01,668 [Worker-16: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Acknowledgement
+2023-03-27 18:57:01,668 [Worker-16: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Acknowledgement
+2023-03-27 18:57:01,669 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 18:57:01,669 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 18:57:19,374 [Worker-20: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 18:57:19,420 [Worker-20: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 18:57:19,453 [Worker-20: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:00:19,055 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:00:19,055 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:00:19,055 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 19:00:19,061 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 19:00:19,063 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:00:19,064 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:00:19,064 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Acknowledgement\src\test\resources
+2023-03-27 19:00:49,752 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-27 19:00:49,880 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Acknowledgement:0.0.1-SNAPSHOT @ D:\Java\JRTP final Project\Final_Project\Acknowledgement\pom.xml.
+2023-03-27 19:00:50,044 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier  to /Ack_Core/target/classes
+2023-03-27 19:00:50,212 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Acknowledgement/src/main/java
+2023-03-27 19:00:50,212 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Acknowledgement/src/main/resources
+2023-03-27 19:00:50,212 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Acknowledgement/src/main/resources
+2023-03-27 19:00:50,213 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Acknowledgement/src/test/java
+2023-03-27 19:00:50,603 [Worker-28: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Acknowledgement
+2023-03-27 19:00:50,611 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-03-27 19:00:50,970 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:00:50,970 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:00:50,970 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 19:00:50,973 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 19:00:50,978 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:00:50,978 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:00:50,978 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Acknowledgement\src\test\resources
+2023-03-27 19:00:50,978 [Worker-23: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Acknowledgement
+2023-03-27 19:00:50,978 [Worker-23: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Acknowledgement
+2023-03-27 19:00:50,981 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:00:50,981 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:01:10,044 [Worker-29: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:01:10,097 [Worker-29: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:01:10,146 [Worker-29: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:02:17,553 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-27 19:02:17,840 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Acknowledgement:0.0.1-SNAPSHOT @ D:\Java\JRTP final Project\Final_Project\Acknowledgement\pom.xml.
+2023-03-27 19:02:18,026 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier  to /Ack_Core/target/classes
+2023-03-27 19:02:18,059 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ack_core:Ack_Core:0.0.1-SNAPSHOT @ D:\Java\JRTP final Project\Final_Project\Ack_Core\pom.xml.
+2023-03-27 19:02:18,103 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Ack_business_Service:0.0.1-SNAPSHOT @ D:\Java\JRTP final Project\Final_Project\Ack_business_Service\pom.xml.
+2023-03-27 19:02:18,118 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier  to /Ack_Core/target/classes
+2023-03-27 19:02:18,657 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ack_business_Service/src/main/java
+2023-03-27 19:02:18,657 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ack_business_Service/src/main/resources
+2023-03-27 19:02:18,657 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ack_business_Service/src/main/resources
+2023-03-27 19:02:18,657 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ack_business_Service/src/test/java
+2023-03-27 19:02:18,977 [Worker-32: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Ack_business_Service
+2023-03-27 19:02:18,984 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-03-27 19:02:19,272 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:02:19,272 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:02:19,275 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 19:02:19,275 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 19:02:19,278 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:02:19,278 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:02:19,278 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 19:02:19,625 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:02:19,625 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:02:19,626 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 19:02:19,641 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 19:02:19,646 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:02:19,646 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:02:19,646 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_business_Service\src\test\resources
+2023-03-27 19:02:19,647 [Worker-23: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Ack_business_Service
+2023-03-27 19:02:19,647 [Worker-23: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Ack_business_Service
+2023-03-27 19:02:19,650 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:02:19,650 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:02:19,714 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:02:19,714 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:02:19,714 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 19:02:19,714 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 19:02:19,717 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:02:19,717 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:02:19,717 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Acknowledgement\src\test\resources
+2023-03-27 19:02:32,359 [Worker-23: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:02:32,359 [Worker-23: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:02:32,360 [Worker-23: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 19:02:32,365 [Worker-23: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 19:02:32,367 [Worker-23: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:02:32,367 [Worker-23: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:02:32,367 [Worker-23: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_business_Service\src\test\resources
+2023-03-27 19:02:32,434 [Worker-23: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:02:32,491 [Worker-23: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:02:32,553 [Worker-23: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:15:53,757 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:15:53,757 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:15:53,757 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 19:15:53,757 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 19:15:53,761 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:15:53,761 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:15:53,761 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Acknowledgement\src\test\resources
+2023-03-27 19:16:28,534 [Worker-39: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:16:28,584 [Worker-39: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:16:28,618 [Worker-39: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:20:42,720 [Worker-42: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:20:42,759 [Worker-42: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:20:42,790 [Worker-42: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:24:44,164 [Worker-36: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:24:44,198 [Worker-36: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:24:44,231 [Worker-36: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:25:50,762 [Worker-52: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:25:50,802 [Worker-52: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:25:50,834 [Worker-52: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:28:16,464 [Worker-39: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:28:16,505 [Worker-39: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:28:16,537 [Worker-39: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:32:55,927 [Worker-50: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:32:55,972 [Worker-50: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:32:56,005 [Worker-50: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 19:33:33,377 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:33:33,377 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:33:33,377 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 19:33:33,377 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 19:33:33,379 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:33:33,379 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:33:33,379 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 19:33:56,366 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:33:56,366 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:33:56,366 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 19:33:56,374 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 19:33:56,376 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:33:56,376 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:33:56,377 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 19:33:57,449 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:33:57,449 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:33:57,449 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 19:33:57,457 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 19:33:57,459 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:33:57,460 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:33:57,460 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 19:34:30,105 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:34:30,105 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:34:30,105 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 19:34:30,111 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 19:34:30,112 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 19:34:30,112 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 19:34:30,112 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_business_Service\src\test\resources
+2023-03-27 20:42:25,410 [Worker-61: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-27 20:42:25,758 [Worker-61: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ack_core:Ack_Core:0.0.1-SNAPSHOT @ D:\Java\JRTP final Project\Final_Project\Ack_Core\pom.xml.
+2023-03-27 20:42:25,887 [Worker-61: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Acknowledgement:0.0.1-SNAPSHOT @ D:\Java\JRTP final Project\Final_Project\Acknowledgement\pom.xml.
+2023-03-27 20:42:25,910 [Worker-61: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier  to /Ack_Core/target/classes
+2023-03-27 20:42:25,938 [Worker-61: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Ack_business_Service:0.0.1-SNAPSHOT @ D:\Java\JRTP final Project\Final_Project\Ack_business_Service\pom.xml.
+2023-03-27 20:42:25,948 [Worker-61: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier  to /Ack_Core/target/classes
+2023-03-27 20:42:26,608 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ack_business_Service/src/main/java
+2023-03-27 20:42:26,608 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ack_business_Service/src/main/resources
+2023-03-27 20:42:26,608 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ack_business_Service/src/main/resources
+2023-03-27 20:42:26,609 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ack_business_Service/src/test/java
+2023-03-27 20:42:26,757 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ack_Core/src/main/java
+2023-03-27 20:42:26,757 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ack_Core/src/main/resources
+2023-03-27 20:42:26,757 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ack_Core/src/main/resources
+2023-03-27 20:42:26,758 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ack_Core/src/test/java
+2023-03-27 20:42:26,906 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Acknowledgement/src/main/java
+2023-03-27 20:42:26,906 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Acknowledgement/src/main/resources
+2023-03-27 20:42:26,906 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Acknowledgement/src/main/resources
+2023-03-27 20:42:26,906 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Acknowledgement/src/test/java
+2023-03-27 20:42:27,563 [Worker-61: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Ack_business_Service
+2023-03-27 20:42:27,600 [Worker-61: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Ack_Core
+2023-03-27 20:42:27,631 [Worker-61: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Acknowledgement
+2023-03-27 20:42:27,637 [Worker-61: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2023-03-27 20:42:28,052 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 20:42:28,052 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 20:42:28,053 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 20:42:28,072 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 20:42:28,075 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 20:42:28,075 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 20:42:28,075 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 20:42:28,076 [Worker-66: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Ack_Core
+2023-03-27 20:42:28,076 [Worker-66: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Ack_Core
+2023-03-27 20:42:28,079 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 20:42:28,079 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 20:42:28,538 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 20:42:28,538 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 20:42:28,538 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 20:42:28,540 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 20:42:28,546 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 20:42:28,546 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 20:42:28,546 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_business_Service\src\test\resources
+2023-03-27 20:42:28,546 [Worker-66: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Ack_business_Service
+2023-03-27 20:42:28,546 [Worker-66: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Ack_business_Service
+2023-03-27 20:42:28,549 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 20:42:28,549 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 20:42:28,702 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 20:42:28,702 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 20:42:28,703 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 20:42:28,704 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 20:42:28,711 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 20:42:28,711 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 20:42:28,711 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Acknowledgement\src\test\resources
+2023-03-27 20:42:28,711 [Worker-66: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Acknowledgement
+2023-03-27 20:42:28,712 [Worker-66: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Acknowledgement
+2023-03-27 20:42:28,721 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 20:42:28,721 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 20:42:42,398 [Worker-70: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 20:42:42,398 [Worker-70: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 20:42:42,399 [Worker-70: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 20:42:42,403 [Worker-70: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 20:42:42,406 [Worker-70: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 20:42:42,406 [Worker-70: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 20:42:42,406 [Worker-70: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 20:43:00,938 [Worker-77: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 20:43:00,938 [Worker-77: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 20:43:00,938 [Worker-77: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 20:43:00,943 [Worker-77: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 20:43:00,945 [Worker-77: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 20:43:00,945 [Worker-77: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 20:43:00,945 [Worker-77: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_business_Service\src\test\resources
+2023-03-27 20:43:01,021 [Worker-77: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 20:43:01,085 [Worker-77: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 20:43:01,136 [Worker-77: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 20:43:18,046 [Worker-79: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 20:43:18,046 [Worker-79: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 20:43:18,046 [Worker-79: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 20:43:18,051 [Worker-79: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 20:43:18,058 [Worker-79: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 20:43:18,059 [Worker-79: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 20:43:18,059 [Worker-79: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Acknowledgement\src\test\resources
+2023-03-27 20:43:18,163 [Worker-79: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 20:43:18,218 [Worker-79: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 20:43:18,279 [Worker-79: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 21:01:02,384 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:01:02,384 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:01:02,384 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:01:02,390 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:01:02,392 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:01:02,393 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:01:02,393 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_business_Service\src\test\resources
+2023-03-27 21:01:17,924 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:01:17,924 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:01:17,924 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:01:17,929 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 21:01:17,930 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:01:17,931 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:01:17,931 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Acknowledgement\src\test\resources
+2023-03-27 21:01:29,589 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:01:29,589 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:01:29,589 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:01:29,595 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:01:29,596 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:01:29,596 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:01:29,596 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 21:02:44,263 [Worker-64: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:02:44,263 [Worker-64: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:02:44,264 [Worker-64: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:02:44,268 [Worker-64: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:02:44,270 [Worker-64: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:02:44,270 [Worker-64: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:02:44,271 [Worker-64: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 21:06:40,261 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:06:40,261 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:06:40,262 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:06:40,270 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:06:40,273 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:06:40,273 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:06:40,273 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 21:07:32,116 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:07:32,116 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:07:32,117 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:07:32,121 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:07:32,122 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:07:32,122 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:07:32,122 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 21:08:12,480 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-27 21:08:12,683 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ack_core:Ack_Core:0.0.1-SNAPSHOT @ D:\Java\JRTP final Project\Final_Project\Ack_Core\pom.xml.
+2023-03-27 21:08:12,802 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Acknowledgement:0.0.1-SNAPSHOT @ D:\Java\JRTP final Project\Final_Project\Acknowledgement\pom.xml.
+2023-03-27 21:08:12,834 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier  to /Ack_Core/target/classes
+2023-03-27 21:08:12,873 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Ack_business_Service:0.0.1-SNAPSHOT @ D:\Java\JRTP final Project\Final_Project\Ack_business_Service\pom.xml.
+2023-03-27 21:08:12,884 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier  to /Ack_Core/target/classes
+2023-03-27 21:08:13,392 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ack_Core/src/main/java
+2023-03-27 21:08:13,392 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ack_Core/src/main/resources
+2023-03-27 21:08:13,393 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ack_Core/src/main/resources
+2023-03-27 21:08:13,393 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ack_Core/src/test/java
+2023-03-27 21:08:13,731 [Worker-84: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Ack_Core
+2023-03-27 21:08:13,739 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-03-27 21:08:14,133 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:08:14,133 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:08:14,134 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:08:14,151 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:08:14,154 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:08:14,154 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:08:14,154 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 21:08:14,154 [Worker-84: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Ack_Core
+2023-03-27 21:08:14,154 [Worker-84: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Ack_Core
+2023-03-27 21:08:14,159 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:08:14,159 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:08:14,444 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:08:14,444 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:08:14,445 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:08:14,445 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:08:14,446 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:08:14,446 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:08:14,446 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_business_Service\src\test\resources
+2023-03-27 21:08:14,493 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:08:14,493 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:08:14,493 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:08:14,493 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:08:14,494 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:08:14,494 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:08:14,494 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Acknowledgement\src\test\resources
+2023-03-27 21:11:20,106 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:11:20,107 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:11:20,107 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:11:20,116 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:11:20,118 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:11:20,118 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:11:20,118 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 21:13:27,484 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:13:27,484 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:13:27,484 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:13:27,492 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:13:27,495 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:13:27,495 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:13:27,495 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 21:13:53,927 [Worker-89: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:13:53,927 [Worker-89: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:13:53,927 [Worker-89: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:13:53,933 [Worker-89: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:13:53,937 [Worker-89: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:13:53,937 [Worker-89: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:13:53,938 [Worker-89: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 21:16:00,664 [Worker-84: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:16:00,664 [Worker-84: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:16:00,664 [Worker-84: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:16:00,673 [Worker-84: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:16:00,677 [Worker-84: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:16:00,677 [Worker-84: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:16:00,677 [Worker-84: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 21:18:27,343 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:18:27,343 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:18:27,344 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:18:27,351 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:18:27,354 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:18:27,354 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:18:27,354 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 21:18:32,867 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:18:32,867 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:18:32,867 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:18:32,872 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:18:32,874 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:18:32,874 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:18:32,874 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 21:19:16,556 [Worker-85: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:19:16,556 [Worker-85: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:19:16,556 [Worker-85: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:19:16,562 [Worker-85: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:19:16,565 [Worker-85: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:19:16,565 [Worker-85: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:19:16,565 [Worker-85: Launching Ack_Core - AckCoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 21:20:16,119 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:20:16,120 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:20:16,120 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:20:16,126 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:20:16,129 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:20:16,129 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:20:16,129 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 21:20:19,562 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:20:19,562 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:20:19,562 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:20:19,566 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:20:19,568 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:20:19,568 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:20:19,568 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 21:20:21,912 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:20:21,912 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:20:21,912 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:20:21,916 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:20:21,918 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:20:21,918 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:20:21,918 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 21:20:56,069 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:20:56,069 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:20:56,069 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:20:56,072 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:20:56,074 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:20:56,074 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:20:56,074 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 21:25:48,566 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:25:48,566 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:25:48,566 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:25:48,574 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:25:48,576 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:25:48,576 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:25:48,576 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 21:25:53,735 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:25:53,735 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:25:53,736 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:25:53,743 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:25:53,746 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:25:53,746 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:25:53,746 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 21:26:04,601 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:26:04,602 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:26:04,602 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:26:04,609 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:26:04,613 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:26:04,613 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:26:04,613 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 21:26:48,065 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:26:48,065 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:26:48,065 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:26:48,071 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:26:48,072 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:26:48,072 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:26:48,072 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 21:26:55,091 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:26:55,091 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:26:55,091 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:26:55,095 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:26:55,097 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:26:55,097 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:26:55,097 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 21:27:03,430 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:27:03,430 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:27:03,431 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 21:27:03,435 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 21:27:03,439 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 21:27:03,439 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 21:27:03,439 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 22:44:06,834 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 22:44:06,834 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 22:44:06,834 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 22:44:06,865 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 22:44:06,866 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 22:44:06,866 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 22:44:06,866 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_business_Service\src\test\resources
+2023-03-27 22:45:54,052 [Worker-98: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 22:45:54,052 [Worker-98: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 22:45:54,053 [Worker-98: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 22:45:54,079 [Worker-98: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 22:45:54,081 [Worker-98: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 22:45:54,081 [Worker-98: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 22:45:54,081 [Worker-98: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_business_Service\src\test\resources
+2023-03-27 22:45:54,154 [Worker-98: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 22:45:54,216 [Worker-98: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 22:45:54,274 [Worker-98: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 22:46:10,021 [Worker-101: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 22:46:10,021 [Worker-101: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 22:46:10,022 [Worker-101: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 22:46:10,031 [Worker-101: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 22:46:10,033 [Worker-101: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 22:46:10,033 [Worker-101: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 22:46:10,033 [Worker-101: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Acknowledgement\src\test\resources
+2023-03-27 22:46:10,173 [Worker-101: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 22:46:10,228 [Worker-101: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 22:46:10,266 [Worker-101: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 22:50:43,397 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 22:50:43,397 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 22:50:43,397 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 22:50:43,412 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 22:50:43,415 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 22:50:43,415 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 22:50:43,415 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Acknowledgement\src\test\resources
+2023-03-27 22:50:54,838 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 22:50:54,838 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 22:50:54,838 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 22:50:54,847 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 22:50:54,848 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 22:50:54,848 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 22:50:54,848 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Acknowledgement\src\test\resources
+2023-03-27 22:50:59,367 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 22:50:59,367 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 22:50:59,367 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 22:50:59,381 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 22:50:59,383 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 22:50:59,383 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 22:50:59,383 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_business_Service\src\test\resources
+2023-03-27 22:59:03,953 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 22:59:03,953 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 22:59:03,954 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 22:59:03,960 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 22:59:03,962 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 22:59:03,962 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 22:59:03,962 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_business_Service\src\test\resources
+2023-03-27 22:59:12,787 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 22:59:12,787 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 22:59:12,787 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 22:59:12,792 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 22:59:12,797 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 22:59:12,797 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 22:59:12,797 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Acknowledgement\src\test\resources
+2023-03-27 22:59:31,910 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 22:59:31,910 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 22:59:31,910 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 22:59:31,918 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 22:59:31,920 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 22:59:31,920 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 22:59:31,920 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 22:59:54,270 [Worker-111: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 22:59:54,307 [Worker-111: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 22:59:54,340 [Worker-111: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 23:00:10,269 [Worker-106: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 23:00:10,305 [Worker-106: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 23:00:10,341 [Worker-106: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-27 23:05:11,978 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 23:05:11,978 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 23:05:11,978 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 23:05:11,988 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 23:05:11,990 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 23:05:11,990 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 23:05:11,990 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_business_Service\src\test\resources
+2023-03-27 23:05:28,285 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 23:05:28,285 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 23:05:28,285 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 23:05:28,291 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 23:05:28,293 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 23:05:28,293 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 23:05:28,293 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-27 23:05:43,089 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 23:05:43,089 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 23:05:43,089 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-27 23:05:43,096 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 23:05:43,098 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 23:05:43,098 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-27 23:05:43,098 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Acknowledgement\src\test\resources
+2023-03-28 07:30:06,975 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-28 07:36:43,547 [Worker-9: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier  to /Ack_Core/target/classes
+2023-03-28 07:36:43,886 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-28 07:36:43,886 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-28 07:36:43,889 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-28 07:36:43,917 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-28 07:36:43,924 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-28 07:36:43,924 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-28 07:36:43,924 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_business_Service\src\test\resources
+2023-03-28 07:36:47,393 [Worker-9: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier  to /Ack_Core/target/classes
+2023-03-28 07:36:47,423 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-28 07:36:47,423 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-28 07:36:47,424 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-28 07:36:47,443 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-28 07:36:47,448 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-28 07:36:47,448 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-28 07:36:47,448 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Acknowledgement\src\test\resources
+2023-03-28 07:37:13,779 [Worker-8: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-28 07:37:13,829 [Worker-8: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-28 07:37:13,867 [Worker-8: Launching Ack_business_Service - AckBusinessServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-28 07:37:28,246 [Worker-7: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-28 07:37:28,285 [Worker-7: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-28 07:37:28,325 [Worker-7: Launching Acknowledgement - AcknowledgementApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Ack_Core: com.ack_core:Ack_Core:0.0.1-SNAPSHOT with classifier null to /Ack_Core/target/classes
+2023-03-28 07:39:37,337 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-28 07:39:37,337 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-28 07:39:37,344 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-28 07:39:37,354 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-28 07:39:37,357 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-28 07:39:37,357 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-28 07:39:37,357 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_business_Service\src\test\resources
+2023-03-28 07:39:58,756 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-28 07:39:58,756 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-28 07:39:58,757 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-28 07:39:58,767 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-28 07:39:58,769 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-28 07:39:58,769 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-28 07:39:58,769 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources
+2023-03-28 07:46:08,247 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-28 07:46:08,247 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-28 07:46:08,248 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-28 07:46:08,256 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-28 07:46:08,260 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-28 07:46:08,260 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-03-28 07:46:08,260 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Java\JRTP final Project\Final_Project\Ack_Core\src\test\resources

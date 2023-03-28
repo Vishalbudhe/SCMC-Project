@@ -15,8 +15,8 @@ import lombok.NoArgsConstructor;
 @Entity
 public class OrderItems {
 	@Id
-	@GeneratedValue(strategy = GenerationType.AUTO)
-	private Long id;
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long ordId;
 	private Long productNumber;
 	private String productName;
 	private int productQty;
