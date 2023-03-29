@@ -21,7 +21,7 @@ public class CoreController {
 		OrderHeader addOrder = serv.addOrder(order);
 		
 		AdDocuments adDocuments = serv.AdDocumentsGenerateAndPersist(order);
-		System.out.println(adDocuments);		
+				
 		return addOrder;
 	}
 	@PostMapping("/adproduct")

@@ -6,9 +6,11 @@ import org.springframework.stereotype.Service;
 import com.core.Repository.AdDocRepository;
 import com.core.Repository.OrderHeaderRepository;
 import com.core.Repository.ProductInfoRepository;
+import com.core.Repository.RdDocRepository;
 import com.core.entity.AdDocuments;
 import com.core.entity.OrderHeader;
 import com.core.entity.ProductInfo;
+import com.core.entity.RdDocuments;
 import com.core.service.OrderService;
 
 @Service
@@ -20,6 +22,8 @@ public class OrderServiceImpl implements OrderService{
 	private ProductInfoRepository pRepo;
 	@Autowired
 	private AdDocRepository adDocRepo;
+	@Autowired
+	private RdDocRepository rdDocRepo;
 
 	@Override
 	public OrderHeader addOrder(OrderHeader order) {
@@ -45,9 +49,33 @@ public class OrderServiceImpl implements OrderService{
 			adDoc.setPoNumber(order.getPoNumber());
 			adDoc.setOrderitems(order.getOrderitems());
 			adDocRepo.save(adDoc);
+			System.out.println(adDoc);
+			
+			ProductInfo pi = new ProductInfo(storeProductInfo);
+			pi.setPrId(storeProductInfo.getPrId());
+			pi.setProductName(storeProductInfo.getProductName());
+			pi.setProductNumber(storeProductInfo.getProductNumber());
+			pi.setProductQty(storeProductInfo.getProductQty()-order.getOrderitems().getProductQty());
+			pRepo.save(pi);
+			
 		}
-				
-		return adDoc;
+		else {
+			this.RdDocumentsGenerateAndPersist(order);
+		}
+		return adDoc;				
+		
+	}
+
+	@Override
+	public RdDocuments RdDocumentsGenerateAndPersist(OrderHeader order) {
+		RdDocuments rdDoc = new RdDocuments();
+		rdDoc.setAcknowledgementType("RD");
+		rdDoc.setUserName(order.getUserName());
+		rdDoc.setPoNumber(order.getPoNumber());
+		rdDoc.setOrderitems(order.getOrderitems());
+		rdDocRepo.save(rdDoc);
+		System.out.println(rdDoc);
+		return rdDoc;
 	}
 
 }
